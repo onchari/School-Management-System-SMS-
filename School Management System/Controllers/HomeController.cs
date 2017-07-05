@@ -15,7 +15,7 @@ namespace School_Management_System.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Yn page.";
 
             return View();
         }
